@@ -1,3 +1,4 @@
+This project is deployed @ https://weather-sanju.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
